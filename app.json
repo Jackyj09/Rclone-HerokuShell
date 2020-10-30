@@ -1,0 +1,31 @@
+{
+    "name": "RcloneHeroku-Shell",
+    "description": "Bot to interface Heroku shell through Telegram with Rclone",
+    "keywords": [
+        "telegram",
+        "shell",
+        "rclone",
+        "heroku"
+    ],
+    "repository": "https://github.com/Pavithran-R/RcloneHeroku-Shell.git",
+    "env": {
+      "BOT_TOKEN": {
+        "description": "The bot token provided by @BotFather",
+        "required": true
+      },
+      "OWNER_ID": {
+        "description": "Your Telegram user ID, get it from @userinfobot",
+        "value": "00000",
+        "required": true
+      },
+      "RCLONE_CONFIG_BASE64": {
+        "description": "Your Rclone config encoded using Base64",
+        "required": false
+      }
+    },
+    "buildpacks": [
+      {
+        "url": "heroku/nodejs"
+      }
+    ]
+  }
