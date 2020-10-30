@@ -1,4 +1,4 @@
-# RcloneHerokushell
+# Rclone Herokushell
  Interface Heroku's shell through Telegram, plus Rclone support
 
 This project is a re-branded repository of [HerokuShell-Rclone](https://github.com/hostitor/HerokuShell-Rclone) by `hostitor`.
