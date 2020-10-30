@@ -38,6 +38,8 @@ resize - Change the terminal size
 setsilent - Enable / disable silent output
 setlinkpreviews - Enable / disable link expansion
 setinteractive - Enable / disable shell interactive flag
+grant - Allow another user to use the bot
+token - Allow another user to use the bot
 help - Get help
 file - View and edit small text files
 upload - Upload and overwrite raw files
