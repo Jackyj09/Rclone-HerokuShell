@@ -1,7 +1,7 @@
 # HerokuShell-Rclone
  Interface Heroku's shell through Telegram, plus Rclone support
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://gitlab.com/PavithranR/rcloneheroku-shell/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pavithran-R/RcloneHeroku-Shell/tree/master)
 
 ## Installation
 - First get the following prepared:
