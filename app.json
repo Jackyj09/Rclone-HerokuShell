@@ -1,5 +1,5 @@
 {
-    "name": "RcloneHeroku-Shell",
+    "name": "Rclone HerokuShell",
     "description": "Bot to interface Heroku shell through Telegram with Rclone",
     "keywords": [
         "telegram",
@@ -15,7 +15,7 @@
       },
       "OWNER_ID": {
         "description": "Your Telegram user ID, get it from @userinfobot",
-        "value": "00000",
+        "value": "",
         "required": true
       },
       "RCLONE_CONFIG_BASE64": {
