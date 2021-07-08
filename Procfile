@@ -1,1 +1,1 @@
-worker: source setup.sh && bash start.sh
+web: source setup.sh && bash start.sh
